@@ -97,3 +97,21 @@ A High Performance and Feature-Rich Idiomatic encode/decode and rpc library
 将Map转换成Go原生的数据结构
 
 [https://github.com/mitchellh/mapstructure](https://github.com/mitchellh/mapstructure)
+
+**Hoverfly**
+
+Hoverfly是一个轻量的API服务模拟工具（有时候也被称作[服务虚拟化工具](http://www.infoq.com/cn/news/2013/05/Service-Virtualization)）。 使用Hoverfly，您可以创建应用程序依赖的API的真实模拟。
+
+https://github.com/SpectoLabs/hoverfly
+
+- 创建可重复使用的虚拟服务，在CI环境中替代缓慢和不稳定的外部或第三方服务
+- 模拟网络延迟，随机故障或速率限制以测试边缘情况
+- 使用多种编程语言扩展和自定义， 包括Go，Java，Javascript，Python
+- 导出，共享，编辑和导入API模拟数据
+- 提供方便易用的命令行界面hoverctl
+- [Java](https://github.com/SpectoLabs/hoverfly-java)和[Python](https://github.com/SpectoLabs/hoverpy)的语言绑定
+- REST API
+- 使用Go编写，轻巧，高性能，可在任何地方运行
+- 提供多种运行模式，可以对HTTP响应进行记录，回放，修改或合成。
+
+Hoverfly由[SpectoLabs](http://specto.io/)开发和维护。
