@@ -157,3 +157,8 @@ Centrifugo 包含如下子项目：
 - [jscent](https://github.com/centrifugal/jscent) - NodeJS client to communicate  with Centrifugo server API.
 - [web](https://github.com/centrifugal/web) - Centrifugo 的管理界面，基于 [ReactJS](https://www.oschina.net/p/facebook-react) 开发
 
+**goconvey**
+
+https://github.com/smartystreets/goconvey
+
+GO语言测试，Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go. [http://goconvey.co](http://goconvey.co/)
