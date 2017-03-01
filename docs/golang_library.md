@@ -162,3 +162,10 @@ Centrifugo 包含如下子项目：
 https://github.com/smartystreets/goconvey
 
 GO语言测试，Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go. [http://goconvey.co](http://goconvey.co/)
+
+**open-golang**
+
+https://github.com/skratchdot/open-golang/
+
+使用操作系统的默认启动程序打开文件、目录或URI，也可以指定一个应用打开。
+
