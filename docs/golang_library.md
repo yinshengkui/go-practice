@@ -169,3 +169,8 @@ https://github.com/skratchdot/open-golang/
 
 使用操作系统的默认启动程序打开文件、目录或URI，也可以指定一个应用打开。
 
+**zap**
+
+https://github.com/uber-go/zap
+
+uber开源的高性能结构化日志工具
